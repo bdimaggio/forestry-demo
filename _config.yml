@@ -14,6 +14,9 @@ defaults:
     values:
       layout: post
 collections:
+  events:
+    output: true
+    permalink: "/events/:path/"
   people:
     output: true
     permalink: "/about/:path/"
