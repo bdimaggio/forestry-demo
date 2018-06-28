@@ -35,4 +35,4 @@ gems:
   - jekyll-feed
   - jekyll-archives
 
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
